@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.02" name="Warhammer: Age of Sigmar Warcry" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer_Age_of_Sigmar_Warcry.gstz" dataType="gamesystem" dataId="e5fe-db52-95ba-6b62" dataName="Warhammer Age of Sigmar: Warcry" dataBattleScribeVersion="2.02" dataRevision="4"/>
+    <dataIndexEntry filePath="The_Unmade.catz" dataType="catalogue" dataId="e027-a563-d05c-d0bd" dataName="The Unmade" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Idoneth_Deepkin.catz" dataType="catalogue" dataId="7bf4-8b1a-c2c2-3323" dataName="Idoneth Deepkin" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Daughters_of_Khaine.catz" dataType="catalogue" dataId="3f44-f391-b62b-5849" dataName="Daughters of Khaine" dataBattleScribeVersion="2.02" dataRevision="2"/>
+    <dataIndexEntry filePath="Bonesplitters.catz" dataType="catalogue" dataId="0eec-d494-3711-f7ae" dataName="Bonesplitters" dataBattleScribeVersion="2.02" dataRevision="2"/>
+    <dataIndexEntry filePath="Iron_Golems.catz" dataType="catalogue" dataId="6686-f99b-957f-1415" dataName="Iron Golems" dataBattleScribeVersion="2.02" dataRevision="2"/>
+    <dataIndexEntry filePath="Splintered_Fang.catz" dataType="catalogue" dataId="51cd-70a1-af82-4c9d" dataName="Splintered Fang" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Stormcast_Eternals.catz" dataType="catalogue" dataId="60e6-0f2c-d052-85f6" dataName="Stormcast Eternals" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Untamed_Beasts.catz" dataType="catalogue" dataId="d9af-d49b-af09-32b5" dataName="Untamed Beasts" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Legions_of_Nagash.catz" dataType="catalogue" dataId="e6a3-a595-afb6-98aa" dataName="Legions of Nagash" dataBattleScribeVersion="2.02" dataRevision="2"/>
+    <dataIndexEntry filePath="Gloomspite_Gitz.catz" dataType="catalogue" dataId="98a8-13db-b704-3ef0" dataName="Gloomspite Gitz" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Ironjawz.catz" dataType="catalogue" dataId="e383-b36f-ff8a-bdb0" dataName="Ironjawz" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Nighthaunt.catz" dataType="catalogue" dataId="4347-8ecd-7dd8-c70a" dataName="Nighthaunt" dataBattleScribeVersion="2.02" dataRevision="1"/>
+    <dataIndexEntry filePath="Corvus_Cabal.catz" dataType="catalogue" dataId="13ca-35a1-4b48-5b4c" dataName="Corvus Cabal" dataBattleScribeVersion="2.02" dataRevision="2"/>
+    <dataIndexEntry filePath="Flesh-eater_Courts.catz" dataType="catalogue" dataId="4fae-5c7e-e77c-4d26" dataName="Flesh-eater Courts" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Cypher_Lords.catz" dataType="catalogue" dataId="7021-2d1f-bc51-3d1a" dataName="Cypher Lords" dataBattleScribeVersion="2.02" dataRevision="2"/>
+  </dataIndexEntries>
+</dataIndex>

@@ -10,6 +10,8 @@
 !*.gst
 !*.catz
 !*.gstz
+!*.xml
+!*.bsi
 
 # Don't ignore docs
 !*.md
